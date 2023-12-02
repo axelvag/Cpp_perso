@@ -10,3 +10,23 @@
 * **Sort_random_file** : Calculating the results of complex numbers present in a file then sorting in ascending order.
 * **Syracuse** : Application of the Syracuse theoreme/sequence to a number.
 * **Vector_3D** : Class that normalizes 3D vectors.
+
+## Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/axelvag/Cpp_perso.git Cpp_perso
+
+# Access
+$ cd Cpp_perso
+
+# Choose a project
+$ cd [project_name]
+
+# Compile the project
+$ clang++ *.cpp
+
+# Run the project
+$ ./a.out
+
+```
